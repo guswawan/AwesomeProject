@@ -11,8 +11,7 @@ Hiring Channel App with react native
 ## Table of Contents
 - [About](#About)
 - [Technologies](#Technologies)
-- [Features](#Dependencies)
-- [Setup](#Setup)
+- [Features](#Features)
 ---
 
 ## About
