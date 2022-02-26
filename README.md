@@ -1,5 +1,5 @@
 # AwesomeProject
-Hiring Channel App with react native
+Hiring Channel App build with react native
 
 <p align="center">
     <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" height="90px" width="180px">  
