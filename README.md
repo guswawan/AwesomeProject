@@ -9,7 +9,7 @@ Hiring Channel App build with react native
 
 
 ## Table of Contents
-- [About](#About Project)
+- [About](#AboutProject)
 - [Technologies](#Technologies)
 - [Features](#Features)
 ---
