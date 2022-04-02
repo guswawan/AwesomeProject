@@ -1,5 +1,5 @@
 # AwesomeProject
-Hiring Channel App build with react native
+
 
 <p align="center">
     <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" height="90px" width="180px">  
@@ -15,7 +15,7 @@ Hiring Channel App build with react native
 ---
 
 ## About Project
-AwesomeProject there is a Hiring Channel application that has two types of users that are useful as a liaison between both parties to find work and offer jobs that can be done remotely
+AwesomeProject there is a Hiring Channel application that has two types of users that are useful as a liaison between both parties to find work and offer jobs that can be done remotely. Hiring Channel App build with react native.
 
 
 ## Technologies
