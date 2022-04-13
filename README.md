@@ -22,7 +22,7 @@ AwesomeProject there is a Hiring Channel application that has two types of users
 Project is created with
 
 
-* ExpressJs
+* Expressjs
 * Mysql
 * React Native
 * Redux
