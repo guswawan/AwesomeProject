@@ -10,7 +10,7 @@
 
 ## Table of Contents
 - [About Project](#About-Project)
-- [Technologies](#Stacks)
+- [Stacks](#Stacks)
 - [Features](#Features)
 ---
 
