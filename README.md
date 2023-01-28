@@ -1,4 +1,4 @@
-# AwesomeProject
+# AwesomeProject App
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 AwesomeProject there is a Hiring Channel application that has two types of users that are useful as a liaison between both parties to find work and offer jobs that can be done remotely. Hiring Channel App build with react native.
 
 
-## Stacks
+## Tech Stacks
 Project is created with
 
 
