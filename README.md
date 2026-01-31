@@ -1,4 +1,4 @@
-# AwesomeProject
+# AwesomeProject App
 
 
 <p align="center">
@@ -10,15 +10,15 @@
 
 ## Table of Contents
 - [About Project](#About-Project)
-- [Technologies](#Technologies)
+- [Stacks](#Stacks)
 - [Features](#Features)
 ---
 
 ## About Project
-AwesomeProject there is a Hiring Channel application that has two types of users that are useful as a liaison between both parties to find work and offer jobs that can be done remotely. Hiring Channel App build with react native.
+AwesomeProject App is a Hiring Channel application that has two types of users that are useful as a liaison between both parties to find work and offer jobs that can be done remotely. Hiring Channel App build with react native.
 
 
-## Technologies
+## Tech Stacks
 Project is created with
 
 
